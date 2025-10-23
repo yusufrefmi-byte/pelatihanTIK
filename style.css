@@ -1,0 +1,15 @@
+body {
+    bacground-color: #FFFFE0; /* Warna kuning cerah */
+    font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah dibaca
+    color: #191970; /* warna terks utama (biru gelap) */
+}
+
+.kartu-profil {
+    widh: 350px;
+    margin: 70px auto; /* 70px jarak atas/bawah, auto menengahkan
+  kiri/kanan */
+    padding: 40px;
+    bacground-color: white;
+    border-radius: 25px; /* membuat sudut menjadi melengkung */
+    box-shadow: 0 6px 12px rgba (0,0,0,0.1); /* efek bayangan */
+}
