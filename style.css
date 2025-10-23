@@ -12,4 +12,10 @@ body {
     bacground-color: white;
     border-radius: 25px; /* membuat sudut menjadi melengkung */
     box-shadow: 0 6px 12px rgba (0,0,0,0.1); /* efek bayangan */
+    text-align: center; ?* menengah semua teks didalam kartu */
+}
+
+kartu-profil img {
+    width: 150px;
+    border-radius: 50%; /* Trik untuk semua gambar persegi menjadi lingkaran sempurna
 }
